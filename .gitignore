@@ -17,3 +17,6 @@ scratch/
 test-output/
 target/
 sample/
+
+.idea/
+/connector-box-rest.iml
